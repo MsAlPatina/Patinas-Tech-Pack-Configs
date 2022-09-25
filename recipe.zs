@@ -4,7 +4,7 @@
 //Don't touch me!
 //#Add
 //Import
-
+//makes certin updates compatible
 //recipes for Patinas Tech Pack
 import mods.immersiveengineering.DieselHandler;
 import mods.immersivetechnology.SteamTurbine;
